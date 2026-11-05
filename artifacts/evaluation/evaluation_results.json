@@ -1,0 +1,24 @@
+{
+    "logistic_regression": {
+        "accuracy": 0.7381121362668559,
+        "precision": 0.504302925989673,
+        "recall": 0.7834224598930482,
+        "f1_score": 0.6136125654450262,
+        "roc_auc": 0.8412978893797307
+    },
+    "decision_tree": {
+        "accuracy": 0.7281760113555713,
+        "precision": 0.4878048780487805,
+        "recall": 0.48128342245989303,
+        "f1_score": 0.4845222072678331,
+        "roc_auc": 0.6495698674726806
+    },
+    "random_forest": {
+        "accuracy": 0.7828246983676366,
+        "precision": 0.6180555555555556,
+        "recall": 0.47593582887700536,
+        "f1_score": 0.5377643504531722,
+        "roc_auc": 0.8219651760572476
+    },
+    "best_model": "logistic_regression"
+}

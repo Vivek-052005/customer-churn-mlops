@@ -1,0 +1,10 @@
+2026-11-05 12:14:53,551 - INFO - Starting data preprocessing
+2026-11-05 12:14:53,591 - INFO - Raw dataset loaded successfully
+2026-11-05 12:14:53,591 - INFO - Original dataset shape: (7043, 21)
+2026-11-05 12:14:53,602 - INFO - Duplicate rows removed: 0
+2026-11-05 12:14:53,610 - INFO - Target column encoded successfully
+2026-11-05 12:14:53,701 - INFO - Training dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\train.csv
+2026-11-05 12:14:53,701 - INFO - Testing dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\test.csv
+2026-11-05 12:14:53,701 - INFO - Training dataset shape: (5634, 20)
+2026-11-05 12:14:53,701 - INFO - Testing dataset shape: (1409, 20)
+2026-11-05 12:14:53,701 - INFO - Data preprocessing completed successfully
