@@ -116,7 +116,7 @@ def preprocess_data():
     test_data = X_test.copy()
     test_data["Churn"] = y_test
 
-    # 11. Save the datasets
+    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     train_data.to_csv(TRAIN_PATH, index=False)
     test_data.to_csv(TEST_PATH, index=False)
 
