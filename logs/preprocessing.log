@@ -8,3 +8,23 @@
 2026-11-05 12:14:53,701 - INFO - Training dataset shape: (5634, 20)
 2026-11-05 12:14:53,701 - INFO - Testing dataset shape: (1409, 20)
 2026-11-05 12:14:53,701 - INFO - Data preprocessing completed successfully
+2026-11-05 12:54:40,273 - INFO - Starting data preprocessing
+2026-11-05 12:54:40,322 - INFO - Raw dataset loaded successfully
+2026-11-05 12:54:40,322 - INFO - Original dataset shape: (7043, 21)
+2026-11-05 12:54:40,333 - INFO - Duplicate rows removed: 0
+2026-11-05 12:54:40,351 - INFO - Target column encoded successfully
+2026-11-05 12:54:40,444 - INFO - Training dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\train.csv
+2026-11-05 12:54:40,444 - INFO - Testing dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\test.csv
+2026-11-05 12:54:40,444 - INFO - Training dataset shape: (5634, 20)
+2026-11-05 12:54:40,444 - INFO - Testing dataset shape: (1409, 20)
+2026-11-05 12:54:40,451 - INFO - Data preprocessing completed successfully
+2026-11-05 12:56:25,061 - INFO - Starting data preprocessing
+2026-11-05 12:56:25,091 - INFO - Raw dataset loaded successfully
+2026-11-05 12:56:25,091 - INFO - Original dataset shape: (7043, 21)
+2026-11-05 12:56:25,106 - INFO - Duplicate rows removed: 0
+2026-11-05 12:56:25,119 - INFO - Target column encoded successfully
+2026-11-05 12:56:25,206 - INFO - Training dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\train.csv
+2026-11-05 12:56:25,206 - INFO - Testing dataset saved: C:\Users\N.Vivekanda Swamy\Desktop\customer-churn-mlops\data\processed\test.csv
+2026-11-05 12:56:25,206 - INFO - Training dataset shape: (5634, 20)
+2026-11-05 12:56:25,206 - INFO - Testing dataset shape: (1409, 20)
+2026-11-05 12:56:25,206 - INFO - Data preprocessing completed successfully

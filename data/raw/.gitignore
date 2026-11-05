@@ -1,1 +1,14 @@
-/WA_Fn-UseC_-Telco-Customer-Churn.csv
+# Generated datasets
+data/processed/
+
+# Generated ML artifacts
+artifacts/preprocessor/
+artifacts/models/
+artifacts/evaluation/
+
+# MLflow database and tracking data
+mlflow.db
+mlruns/
+
+# Logs
+logs/
